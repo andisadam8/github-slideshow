@@ -1,4 +1,9 @@
 ---
 label: Ddk itu Dadank
 hide_body: false
-fields: []
+fields:
+- name: label
+  type: include
+  config: {}
+  template: ddk-itu-dadank
+  label: label
