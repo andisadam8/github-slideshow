@@ -14,3 +14,14 @@ fields:
   config:
     min: 
     max: 
+- name: bela
+  type: field_group_list
+  fields:
+  - name: alihkan
+    type: boolean
+    label: alihkan
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Bela
