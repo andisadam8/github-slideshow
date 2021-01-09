@@ -7,3 +7,10 @@ fields:
   config: {}
   template: ddk-itu-dadank
   label: label
+- name: lebal
+  type: blocks
+  label: Lebal
+  template_types: []
+  config:
+    min: 
+    max: 
